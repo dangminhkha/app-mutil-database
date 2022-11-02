@@ -1,0 +1,157 @@
+{"properties": [
+  {
+    "name": "spring.datasource-oracle.driver-class-oracle.jdbc.driver.OracleDriver",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource-oracle.driver-class-oracle.jdbc.driver.OracleDriver'"
+  },
+  {
+    "name": "spring.datasource-oracle.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource-oracle.url'"
+  },
+  {
+    "name": "spring.datasource-oracle.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource-oracle.password'"
+  },
+  {
+    "name": "spring.datasource-oracle.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource-oracle.username'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.jdbc-url'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.username'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.password'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.connection-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.connection-timeout'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.minimum-idle'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.maximum-pool-size'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.idle-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.idle-timeout'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.max-lifetime",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.max-lifetime'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.auto-commit",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.auto-commit'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.type'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.pool-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.pool-name'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.jdbc-url'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.username'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.password'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.minimum-idle'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.connection-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.connection-timeout'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.maximum-pool-size'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.idle-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.idle-timeout'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.max-lifetime",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.max-lifetime'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.auto-commit",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.auto-commit'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.type'"
+  },
+  {
+    "name": "spring.datasource.oracle.hikari.pool-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.oracle.hikari.pool-name'"
+  },
+  {
+    "name": "oracle.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'oracle.enabled'"
+  },
+  {
+    "name": "postgres.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'postgres.enabled'"
+  },
+  {
+    "name": "spring.datasource.postgres.hikari.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.postgres.hikari.url'"
+  }
+]}
